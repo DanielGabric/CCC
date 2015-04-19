@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define CAT -1
+#define CAT -1 
 int main()
 {
 	int i,j;
