@@ -22,4 +22,4 @@ int main()
             }
 	printf("%d\n",maze[R][C]);
 
-}
+} 
