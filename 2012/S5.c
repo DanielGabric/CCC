@@ -19,7 +19,7 @@ int main()
             if(maze[i][j]!=CAT){
                 if(maze[i-1][j]!=CAT)maze[i][j]+=maze[i-1][j];
                 if(maze[i][j-1]!=CAT)maze[i][j]+=maze[i][j-1];
-             }
+            }
     printf("%d\n",maze[R][C]);
 
 } 
